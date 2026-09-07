@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roplong Cakes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Roplong Cakes 🎂</h1>
+        <p>Delicious cakes, cupcakes & pastries made with love.</p>
+    </header>
+
+    <nav>
+        <a href="#cakes">Cakes</a>
+        <a href="#cupcakes">Cupcakes</a>
+        <a href="#pastries">Pastries</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="cakes">
+        <h2>Our Cakes 🎂</h2>
+
+        <div class="product">
+            <img src="cake.jpg" alt="Delicious cake">
+            <h3>Birthday Cake</h3>
+            <p>Beautiful and delicious cakes for your special day.</p>
+        </div>
+    </section>
+
+    <section id="cupcakes">
+        <h2>Our Cupcakes 🧁</h2>
+
+        <div class="product">
+            <img src="cupcake.jpg" alt="Delicious cupcake">
+            <h3>Sweet Cupcakes</h3>
+            <p>Soft, tasty and beautifully decorated cupcakes.</p>
+        </div>
+    </section>
+
+    <section id="pastries">
+        <h2>Our Pastries 🥐</h2>
+
+        <div class="product">
+            <img src="pastry.jpg" alt="Delicious pastry">
+            <h3>Fresh Pastries</h3>
+            <p>Freshly baked pastries made for every occasion.</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us 📞</h2>
+        <p>Ready to place an order?</p>
+        <button>Order Now</button>
+    </section>
+
+    <footer>
+        <p>© 2026 Roplong Cakes. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
